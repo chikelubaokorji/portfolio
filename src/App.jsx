@@ -27,7 +27,7 @@ const siteProps = {
   name: "Chikeluba Okorji",
   title: "Software Engineer - Data",
   email: "chikeluba.okorji@gmail.com",
-  gitHub: "",
+  gitHub: "chikelubaokorji",
   instagram: "",
   linkedIn: "chikelubaokorji",
   medium: "chikelubaokorji",
